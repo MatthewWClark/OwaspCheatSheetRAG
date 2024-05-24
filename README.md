@@ -16,6 +16,7 @@ Technology used:
 - Tiny Llama
 
 Sources:
+
 https://python.langchain.com/v0.2/docs/tutorials/rag/
 https://python.langchain.com/v0.1/docs/integrations/text_embedding/huggingfacehub/
 https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/file_directory/
